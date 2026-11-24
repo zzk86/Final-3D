@@ -1,8 +1,9 @@
 # GDIM 31 Final: 3D
 ## Devlogs
 ### Milestone 1
-TODO.
-
+(https://docs.google.com/drawings/d/1-2IHIaQdiXLRiDRT_hTV2GmxWNk5YMZFsmzGb04frVw/edit)
+I tried to figure out the NPC’s behaviors and item interactions follow clear rules so players can easily understand what to do.
+Keep its state logic simple to avoid bugs when the NPC talks, moves, or gives out items.
 ### Milestone 2
 TODO.
 
